@@ -1,0 +1,17 @@
+{
+  "name": "Nederlands B2 · Hoofdstuk 1–4",
+  "short_name": "Nederlands B2",
+  "description": "Dutch B2 course notes and exercises: grammar, exercises and reading for chapters 1 to 4.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#00808a",
+  "lang": "nl",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
